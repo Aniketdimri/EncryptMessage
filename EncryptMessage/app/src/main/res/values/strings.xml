@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EncryptMessage</string>
+    <string name="enter_values">Enter Your Text Here</string>
+    <string name="text">"Your Encrypted Text Here</string>
+</resources>
